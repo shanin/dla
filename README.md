@@ -46,7 +46,7 @@ For previous years versions, see [Past Versions](#past-versions) section.
 - [**week07**](./week07) Source Separation II
 
   - Lecture: Speech separation, Blind and Target Separation, Recurrent(TasNet, DPRNN, VoiceFilter) and CNN(ConvTasNet, SpEx+)
-  - Seminar: WienerFilter, SincFilter and DEMUCS
+  - Seminar: WienerFilter, SincFilter and DEMUCS; streaming processing and performance metrics
 
 <!-- - [**week08**](./week08) Audio-Visual Models
 
