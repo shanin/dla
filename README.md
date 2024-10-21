@@ -41,14 +41,14 @@ For previous years versions, see [Past Versions](#past-versions) section.
   - Lecture: A review of general Source Separation and Denoising, Encoder-Decoder-Separator architectures, Demucs family, DCCRN, FullSubNet+, BandSplitRNN
   - Seminar: Metrics
 
-<!--
+
 
 - [**week07**](./week07) Source Separation II
 
   - Lecture: Speech separation, Blind and Target Separation, Recurrent(TasNet, DPRNN, VoiceFilter) and CNN(ConvTasNet, SpEx+)
   - Seminar: WienerFilter, SincFilter and DEMUCS
 
-- [**week08**](./week08) Audio-Visual Models
+<!-- - [**week08**](./week08) Audio-Visual Models
 
   - Lecture: Speech separation, Blind and Target Separation, Recurrent(TasNet, DPRNN, VoiceFilter) and CNN(ConvTasNet, SpEx+)
   - Seminar: WienerFilter, SincFilter and DEMUCS
