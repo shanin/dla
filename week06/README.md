@@ -5,4 +5,4 @@
 
 ### Practice
 
-- **Seminar**: ./semSpSepTOSOLVE.ipynb
+- **Seminar**: [notebook](./semSpSepTOSOLVE.ipynb)

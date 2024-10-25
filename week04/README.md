@@ -1,7 +1,7 @@
 # Week 04
 
 - [Lecture slides](https://docs.google.com/presentation/d/1aa1uS7lm3iuxDM5ZDCBNUaWz1E81zUevxYqZIymxgiA/edit?usp=sharing)
-- [Recording on YouTube (in Russian)](TBA)
+- [Recording on YouTube (in Russian)](https://youtu.be/4who1RG-kaA)
 
 ### Practice & homework
 
@@ -11,16 +11,19 @@
 ### Additional Materials
 
 - **General:**
+
   - depthwise separable convolution explanation with a beautiful visualization [here](https://youtu.be/vVaRhZXovbw?si=4LuymL6WHJJkSMKm) in case of conv2d
   - [comparing end-to-end speech recognition architectures in 2021](https://www.assemblyai.com/blog/a-survey-on-end-to-end-speech-recognition-architectures-in-2021/) a blogpost comparing CTC, LAS and RNN-t models
   - whisper [paper](https://arxiv.org/abs/2212.04356) - a large-scale ASR model with a sophisticated attention-based decoder trained on 680k hours of weakly supervised multilingual and multitask data from openai, released in 2022
 
 - **LAS:**
+
   - original LAS model [paper](https://arxiv.org/abs/1508.01211)
   - brief [overwiev](https://sh-tsang.medium.com/brief-review-listen-attend-and-spell-a-neural-network-for-large-vocabulary-conversational-106524651804) of the LAS paper from medium
   - see whisper in general section
 
 - **RNN-t:**
+
   - [sequence-to-sequence learning with transducers](https://lorenlugosch.github.io/posts/2020/11/transducer/) a gentle introduction to RNN-t architecture
   - original RNN-t decoder [paper](https://arxiv.org/pdf/1211.3711)
 
