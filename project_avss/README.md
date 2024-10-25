@@ -2,7 +2,7 @@
 
 ## Task
 
-Implement and train an audio-only or audio-visual Source Separation system on the dataset provided by the teachers (see our official channel).
+Implement and train an audio-only or audio-visual Source Separation system on the dataset provided by the teachers (see our official channel). You cannot use external datasets without teachers' permission, except for noise/rir augmentations.
 
 **You cannot use implementations available on the internet.**
 
