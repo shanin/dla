@@ -60,7 +60,7 @@ NameOfTheDirectoryWithUtterances
 │       .
 │       .
 │       └── FirstSpeakerIDn_SecondSpeakerIDn.wav
-└── video # contains video information for all speakers
+└── mouths # contains video information for all speakers
     ├── FirstOrSecondSpeakerID1.npz # npz mouth-crop
     ├── FirstOrSecondSpeakerID2.npz
     .
