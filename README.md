@@ -52,24 +52,23 @@ For previous years versions, see [Past Versions](#past-versions) section.
   - Q&A: Project and Slurm discussion
   - Extra Seminar: Create Your Own Intelligent Voice Assistant
 
-<!-- -
 
 - [**week09**](./week09) Text to Speech (TTS)
 
   - Lecture: Tacotron, DeepVoice, GST, FastSpeech, AdaSpeech, Attention Tricks
-  - Seminar: FastSpeech I
+  - Seminar: postponed
 
 - [**week10**](./week10) Neural Vocoders
 
   - Lecture: WaveNet, Parallel WaveGAN, WaveGlow, MelGAN, HiFiGAN
-  - Seminar: WaveNet
+  - Seminar: FastSpeech I, TTS pipeline: from text to audio
 
-- [**week11**](./week11) Voice Conversion
+<!-- - [**week11**](./week11) Voice Conversion
 
   - Lecture: Disentanglement & Direct based methods
   - Seminar: TorchScript, HiFi-VC
 
-- [**week12**](./week12) Voice Biometry I
+ - [**week12**](./week12) Voice Biometry I
 
   - Lecture: Introduction. CMs for synthesized speech detection (LCNN, RawNet2, AASIST). GNNs
   - Seminar: ASVspoof, Sinc-layer, GNN
