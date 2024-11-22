@@ -172,6 +172,9 @@ Add some final thoughts about the quality of generated samples and the ease of t
 grade = MOS + 0.5 * (quality of code and report)
 ```
 
+> [!IMPORTANT]
+> Keep in mind that this is an individual homework and that the report is of ASR-HW style, not an article-style as in AVSS.
+
 To evaluate the MOS (between 0 and 5), you must add a synthesis of the following sentences to the report:
 
 - TBA Soon.
