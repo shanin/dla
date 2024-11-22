@@ -52,7 +52,6 @@ For previous years versions, see [Past Versions](#past-versions) section.
   - Q&A: Project and Slurm discussion
   - Extra Seminar: Create Your Own Intelligent Voice Assistant
 
-
 - [**week09**](./week09) Text to Speech (TTS)
 
   - Lecture: Tacotron, DeepVoice, GST, FastSpeech, AdaSpeech, Attention Tricks
@@ -87,10 +86,10 @@ For previous years versions, see [Past Versions](#past-versions) section.
 
 # Homeworks and Projects
 
-- [**HW_ASR**](./hw1_asr) Training speech recognition model
-- [**Project_AVSS**](./project_avss) Training audio-visual speech separation model
+- [**HW_ASR**](./hw1_asr) Training a speech recognition model
+- [**Project_AVSS**](./project_avss) Training an audio-visual speech separation model
+- [**HW_NV**](./hw3_nv) Implementation of a TTS model (Neural Vocoder)
 <!--
-- [**HW_NV**](./hw3_nv) Implementation of TTS model (Neural Vocoder)
   -->
 
 See our [project template](https://github.com/Blinorot/pytorch_project_template).
