@@ -183,4 +183,13 @@ The corresponding original audio for calculating `MelSpectogram` will be provide
 
 Add a neural-MOS estimate of your model performance using [WVMOS](https://github.com/AndreevP/wvmos) or [NORESQA-MOS](https://github.com/facebookresearch/Noresqa).
 
-There are no bonuses for this homework.
+To give you a rough idea of how we are going to evaluate, the scale is _approximately_ as follows:
+
+    5. Words can be heard perfectly
+    4. There is some obvious noise, but all the words are clear and you do not have to listen to them to understand
+    3. Most words are understandable, but some words are indistinguishable
+    2. Very noisy audio, but some words are understandable
+    1. At least it squeaks
+    0. Vacuum cleaner
+
+**There are no bonuses for this homework.**
