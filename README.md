@@ -62,15 +62,16 @@ For previous years versions, see [Past Versions](#past-versions) section.
   - Lecture: WaveNet, Parallel WaveGAN, WaveGlow, MelGAN, HiFiGAN
   - Seminar: FastSpeech I, TTS pipeline: from text to audio
 
-<!-- - [**week11**](./week11) Voice Conversion
+- [**week11**](./week11) Diffusion-based TTS
 
-  - Lecture: Disentanglement & Direct based methods
-  - Seminar: TorchScript, HiFi-VC
+- Lecture: Diffusion concept. Diffusion Vocoders and Diffusion acoustic models.
 
- - [**week12**](./week12) Voice Biometry I
+- [**week12**](./week12) Voice Biometry I
 
-  - Lecture: Introduction. CMs for synthesized speech detection (LCNN, RawNet2, AASIST). GNNs
-  - Seminar: ASVspoof, Sinc-layer, GNN
+- Lecture: Introduction. Reverberation. CMs for recorded and synthesized speech detection (LCNN, RawNet2, AASIST). GNNs
+- Seminar: ASVspoof, Sinc-layer, GNN
+
+<!--
 
 - [**week13**](./week13) Voice Biometry II
 
