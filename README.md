@@ -64,12 +64,12 @@ For previous years versions, see [Past Versions](#past-versions) section.
 
 - [**week11**](./week11) Diffusion-based TTS
 
-- Lecture: Diffusion concept. Diffusion Vocoders and Diffusion acoustic models.
+  - Lecture: Diffusion concept. Diffusion Vocoders and Diffusion acoustic models.
 
 - [**week12**](./week12) Voice Biometry I
 
-- Lecture: Introduction. Reverberation. CMs for recorded and synthesized speech detection (LCNN, RawNet2, AASIST). GNNs
-- Seminar: ASVspoof, Sinc-layer, GNN
+  - Lecture: Introduction. Reverberation. CMs for recorded and synthesized speech detection (LCNN, RawNet2, AASIST). GNNs
+  - Seminar: ASVspoof, Sinc-layer, GNN
 
 <!--
 
