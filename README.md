@@ -71,12 +71,12 @@ For previous years versions, see [Past Versions](#past-versions) section.
   - Lecture: Introduction. Reverberation. CMs for recorded and synthesized speech detection (LCNN, RawNet2, AASIST). GNNs
   - Seminar: ASVspoof, Sinc-layer, GNN
 
-<!--
-
 - [**week13**](./week13) Voice Biometry II
 
-  - Lecture: CMs for replay attack detection. ASV systems. SASV systems. Streaming
-  - Seminar: -
+  - Guest Lecture: Kolmogorov-Arnold Networks (KANs), AASIST3, ASVspoof5
+  - Lecture: ASV systems. SASV systems. Streaming
+
+<!--
 
 - [**week14**](./week14) Diffusion Models for Audio Generation
 
