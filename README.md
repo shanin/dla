@@ -76,13 +76,11 @@ For previous years versions, see [Past Versions](#past-versions) section.
   - Guest Lecture: Kolmogorov-Arnold Networks (KANs), AASIST3, ASVspoof5
   - Lecture: ASV systems. SASV systems. Streaming
 
+- [**week14**](./week14) AI for Music
+
+  - Lecture: Tasks overview, Music Information Retrieval, Music Generation
+
 <!--
-
-- [**week14**](./week14) Diffusion Models for Audio Generation
-
-  - Lecture, part 1: Introduction to diffusion models from two perspectives: score matching and latent probabilistic models.
-  - Lecture, part2: Diffusion models for audio synthesis and tts. WaveGrad, DiffWave, GradTTS
-
 -->
 
 # Homeworks and Projects
